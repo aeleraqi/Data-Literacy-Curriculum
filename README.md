@@ -1,6 +1,6 @@
 # Data-Literacy-Curriculum
-Lesson 01: Understanding Data
-
+[Lesson 01: Understanding Data
+](url)
 Objective: Introduce students to the fundamentals of data and common data types/formats.
 Overview of data types: numerical, categorical, ordinal, etc.
 Common data formats: CSV, JSON, XML, etc.
