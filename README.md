@@ -1,59 +1,43 @@
-# 📊 Data-Literacy-Curriculum
+# Data Literacy Curriculum 📚
 
-## 📚 Lesson 01: Understanding Data
-[![Lesson 01](https://img.shields.io/badge/Lesson%2001-PDF-blue)](https://github.com/aeleraqi/Data-Literacy-Curriculum/blob/main/Lesson%2001.pdf)
+[![Stars](https://img.shields.io/github/stars/aeleraqi/Data-Literacy-Curriculum?style=social)](https://github.com/aeleraqi/Data-Literacy-Curriculum/stargazers)
+[![Topics](https://img.shields.io/badge/Topics-ai%20%7C%20data--science%20%7C%20data--visualization-orange)](https://github.com/aeleraqi/Data-Literacy-Curriculum)
 
-### Objective:
-- Introduce students to the fundamentals of data and common data types/formats.
-- Overview of data types: numerical, categorical, ordinal, etc.
-- Common data formats: CSV, JSON, XML, etc.
-- Examples and exercises to familiarize students with different data types and formats.
+A comprehensive educational curriculum designed to equip students with essential data literacy skills.
 
----
+## 📖 About
 
-## 📚 Lesson 02: Finding Data
-[![Lesson 02](https://img.shields.io/badge/Lesson%2002-PDF-blue)](https://github.com/aeleraqi/Data-Literacy-Curriculum/blob/main/Lesson%2002.pdf)
+The **Data Literacy Curriculum** covers the full data lifecycle — from finding and understanding data, to extracting insights and communicating results effectively. Designed for undergraduate students and professionals entering data-driven fields.
 
-### Objective:
-- Teach students advanced search techniques to effectively locate relevant data using Google and other search engines.
-- Refining search queries using operators and modifiers.
-- Utilizing advanced search features like filters and search operators.
-- Practical exercises to practice searching for specific datasets.
+## 📂 Curriculum Modules
 
----
+| Module | Topics |
+|--------|--------|
+| Module 1 | What is data? Types and structures |
+| Module 2 | Finding and accessing data sources |
+| Module 3 | Data cleaning and preprocessing |
+| Module 4 | Exploratory Data Analysis |
+| Module 5 | Data visualization fundamentals |
+| Module 6 | Statistical thinking and inference |
+| Module 7 | AI and machine learning concepts |
+| Module 8 | Ethical use of data |
 
-## 📚 Lesson 03: Data Scraping - Extracting Data from the Web
-[![Lesson 03](https://img.shields.io/badge/Lesson%2003-PDF-blue)](https://github.com/aeleraqi/Data-Literacy-Curriculum/blob/main/Lesson%2003.pdf)
+## 🎯 Learning Outcomes
 
-### Objective:
-- Introduce students to web scraping as a method to extract data from websites.
-- Overview of web scraping tools and libraries (e.g., BeautifulSoup, Scrapy).
-- Understanding HTML structure and elements for data extraction.
-- Hands-on exercises to scrape data from simple web pages.
+By the end of this curriculum, students will be able to:
+- Locate and evaluate data sources
+- Clean and prepare datasets for analysis
+- Create informative visualizations
+- Draw evidence-based conclusions from data
+- Apply ethical considerations in data work
 
----
+## 🏫 Intended Audience
 
-## 📚 Lesson 04: Data Scraping - Extracting Data from PDFs
-[![Lesson 04](https://img.shields.io/badge/Lesson%2004-PDF-blue)](https://github.com/aeleraqi/Data-Literacy-Curriculum/blob/main/Lesson%2004.pdf)
-
-### Objective:
-- Extend students' knowledge of data scraping to extract data from PDF documents.
-- Techniques for parsing PDF documents programmatically.
-- Handling different types of PDF layouts and structures.
-- Practical exercises to extract data from PDF files.
+- Undergraduate students (any discipline)
+- Journalists and media professionals
+- Business analysts and non-technical professionals
 
 ---
-
-## 🤝 Contributing
-Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
-
-1. Fork the project.
-2. Create your feature branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
-
-## 📄 License
-This project is licensed under the MIT License. If you use or adapt this curriculum, please cite it as follows:
-
-> Eleraqi, A. (2024). *Data Literacy Curriculum*. GitHub Repository. [https://github.com/aeleraqi/Data-Literacy-Curriculum](https://github.com/aeleraqi/Data-Literacy-Curriculum)
+**Author:** [Amr Eleraqi](https://github.com/aeleraqi) — Data Analyst | NLP Specialist | Machine Learning Expert | Educator  
+**Affiliation:** Toronto Metropolitan University, Ontario, Canada  
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0935--0026-brightgreen)](https://orcid.org/0000-0003-0935-0026) [![GitHub](https://img.shields.io/github/followers/aeleraqi?label=Follow&style=social)](https://github.com/aeleraqi)
